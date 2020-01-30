@@ -6,9 +6,9 @@ type bigWig
 allButtonPair on
 visibility full
 graphType bar
-maxHeightPixels 20:10:10
+maxHeightPixels 16:8:4
 viewLimits 0:1
-color 244,67,54
+color 0,0,0
 defaultPos chr21:16420251-16425250
 
     track ColocE001
@@ -17,6 +17,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E001.bw
+    color 244,67,54
 
     track ColocE002
     shortLabel Coloc E002
