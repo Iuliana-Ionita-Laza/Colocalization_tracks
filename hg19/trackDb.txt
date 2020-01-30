@@ -7,6 +7,7 @@ allButtonPair on
 visibility full
 graphType bar
 maxHeightPixels 20:10:10
+viewLimits 0:1
 color 244,67,54
 defaultPos chr21:16420251-16425250
 
