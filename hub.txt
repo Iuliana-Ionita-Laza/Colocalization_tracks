@@ -2,5 +2,5 @@ hub Coloc
 shortLabel Coloc segments
 longLabel Colocalized segments of human genome for Roadmap cell types
 genomesFile genomes.txt
-email ii2135@columbia.edu
-descriptionUrl https://github.com/Iuliana-Ionita-Laza/Colocalization_tracks
+email ii2135@cumc.columbia.edu
+descriptionUrl http://www.funlda.com/colocalization/track
