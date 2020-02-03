@@ -6,10 +6,11 @@ type bigWig
 allButtonPair on
 visibility full
 graphType bar
-maxHeightPixels 32:8:4
+maxHeightPixels 20:10:10
 viewLimits 0:1
-color 0,0,0
+color 244,67,54
 defaultPos chr21:16420251-16425250
+html http://www.funlda.com/colocalization/track
 
     track ColocE001
     shortLabel Coloc E001
@@ -17,6 +18,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E001.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE002
     shortLabel Coloc E002
@@ -24,6 +26,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E002.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE003
     shortLabel Coloc E003
@@ -31,6 +34,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E003.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE004
     shortLabel Coloc E004
@@ -38,6 +42,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E004.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE005
     shortLabel Coloc E005
@@ -45,6 +50,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E005.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE006
     shortLabel Coloc E006
@@ -52,6 +58,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E006.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE007
     shortLabel Coloc E007
@@ -59,6 +66,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E007.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE008
     shortLabel Coloc E008
@@ -66,6 +74,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E008.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE009
     shortLabel Coloc E009
@@ -73,6 +82,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E009.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE010
     shortLabel Coloc E010
@@ -80,6 +90,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E010.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE011
     shortLabel Coloc E011
@@ -87,6 +98,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E011.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE012
     shortLabel Coloc E012
@@ -94,6 +106,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E012.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE013
     shortLabel Coloc E013
@@ -101,6 +114,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E013.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE014
     shortLabel Coloc E014
@@ -108,6 +122,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E014.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE015
     shortLabel Coloc E015
@@ -115,6 +130,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E015.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE016
     shortLabel Coloc E016
@@ -122,6 +138,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E016.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE017
     shortLabel Coloc E017
@@ -129,6 +146,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E017.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE018
     shortLabel Coloc E018
@@ -136,6 +154,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E018.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE019
     shortLabel Coloc E019
@@ -143,6 +162,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E019.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE020
     shortLabel Coloc E020
@@ -150,6 +170,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E020.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE021
     shortLabel Coloc E021
@@ -157,6 +178,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E021.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE022
     shortLabel Coloc E022
@@ -164,6 +186,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E022.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE023
     shortLabel Coloc E023
@@ -171,6 +194,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E023.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE024
     shortLabel Coloc E024
@@ -178,6 +202,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E024.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE025
     shortLabel Coloc E025
@@ -185,6 +210,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E025.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE026
     shortLabel Coloc E026
@@ -192,6 +218,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E026.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE027
     shortLabel Coloc E027
@@ -199,6 +226,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E027.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE028
     shortLabel Coloc E028
@@ -206,6 +234,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E028.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE029
     shortLabel Coloc E029
@@ -213,6 +242,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E029.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE030
     shortLabel Coloc E030
@@ -220,6 +250,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E030.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE031
     shortLabel Coloc E031
@@ -227,6 +258,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E031.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE032
     shortLabel Coloc E032
@@ -234,6 +266,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E032.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE033
     shortLabel Coloc E033
@@ -241,6 +274,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E033.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE034
     shortLabel Coloc E034
@@ -248,6 +282,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E034.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE035
     shortLabel Coloc E035
@@ -255,6 +290,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E035.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE036
     shortLabel Coloc E036
@@ -262,6 +298,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E036.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE037
     shortLabel Coloc E037
@@ -269,6 +306,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E037.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE038
     shortLabel Coloc E038
@@ -276,6 +314,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E038.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE039
     shortLabel Coloc E039
@@ -283,6 +322,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E039.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE040
     shortLabel Coloc E040
@@ -290,6 +330,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E040.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE041
     shortLabel Coloc E041
@@ -297,6 +338,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E041.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE042
     shortLabel Coloc E042
@@ -304,6 +346,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E042.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE043
     shortLabel Coloc E043
@@ -311,6 +354,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E043.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE044
     shortLabel Coloc E044
@@ -318,6 +362,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E044.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE045
     shortLabel Coloc E045
@@ -325,6 +370,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E045.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE046
     shortLabel Coloc E046
@@ -332,6 +378,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E046.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE047
     shortLabel Coloc E047
@@ -339,6 +386,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E047.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE048
     shortLabel Coloc E048
@@ -346,6 +394,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E048.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE049
     shortLabel Coloc E049
@@ -353,6 +402,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E049.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE050
     shortLabel Coloc E050
@@ -360,6 +410,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E050.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE051
     shortLabel Coloc E051
@@ -367,6 +418,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E051.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE052
     shortLabel Coloc E052
@@ -374,6 +426,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E052.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE053
     shortLabel Coloc E053
@@ -381,6 +434,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E053.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE054
     shortLabel Coloc E054
@@ -388,6 +442,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E054.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE055
     shortLabel Coloc E055
@@ -395,6 +450,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E055.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE056
     shortLabel Coloc E056
@@ -402,6 +458,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E056.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE057
     shortLabel Coloc E057
@@ -409,6 +466,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E057.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE058
     shortLabel Coloc E058
@@ -416,6 +474,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E058.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE059
     shortLabel Coloc E059
@@ -423,6 +482,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E059.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE061
     shortLabel Coloc E061
@@ -430,6 +490,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E061.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE062
     shortLabel Coloc E062
@@ -437,6 +498,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E062.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE063
     shortLabel Coloc E063
@@ -444,6 +506,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E063.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE065
     shortLabel Coloc E065
@@ -451,6 +514,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E065.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE066
     shortLabel Coloc E066
@@ -458,6 +522,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E066.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE067
     shortLabel Coloc E067
@@ -465,6 +530,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E067.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE068
     shortLabel Coloc E068
@@ -472,6 +538,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E068.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE069
     shortLabel Coloc E069
@@ -479,6 +546,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E069.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE070
     shortLabel Coloc E070
@@ -486,6 +554,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E070.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE071
     shortLabel Coloc E071
@@ -493,6 +562,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E071.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE072
     shortLabel Coloc E072
@@ -500,6 +570,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E072.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE073
     shortLabel Coloc E073
@@ -507,6 +578,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E073.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE074
     shortLabel Coloc E074
@@ -514,6 +586,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E074.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE075
     shortLabel Coloc E075
@@ -521,6 +594,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E075.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE076
     shortLabel Coloc E076
@@ -528,6 +602,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E076.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE077
     shortLabel Coloc E077
@@ -535,6 +610,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E077.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE078
     shortLabel Coloc E078
@@ -542,6 +618,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E078.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE079
     shortLabel Coloc E079
@@ -549,6 +626,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E079.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE080
     shortLabel Coloc E080
@@ -556,6 +634,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E080.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE081
     shortLabel Coloc E081
@@ -563,6 +642,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E081.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE082
     shortLabel Coloc E082
@@ -570,6 +650,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E082.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE083
     shortLabel Coloc E083
@@ -577,6 +658,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E083.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE084
     shortLabel Coloc E084
@@ -584,6 +666,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E084.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE085
     shortLabel Coloc E085
@@ -591,6 +674,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E085.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE086
     shortLabel Coloc E086
@@ -598,6 +682,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E086.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE087
     shortLabel Coloc E087
@@ -605,6 +690,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E087.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE088
     shortLabel Coloc E088
@@ -612,6 +698,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E088.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE089
     shortLabel Coloc E089
@@ -619,6 +706,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E089.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE090
     shortLabel Coloc E090
@@ -626,6 +714,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E090.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE091
     shortLabel Coloc E091
@@ -633,6 +722,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E091.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE092
     shortLabel Coloc E092
@@ -640,6 +730,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E092.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE093
     shortLabel Coloc E093
@@ -647,6 +738,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E093.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE094
     shortLabel Coloc E094
@@ -654,6 +746,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E094.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE095
     shortLabel Coloc E095
@@ -661,6 +754,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E095.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE096
     shortLabel Coloc E096
@@ -668,6 +762,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E096.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE097
     shortLabel Coloc E097
@@ -675,6 +770,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E097.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE098
     shortLabel Coloc E098
@@ -682,6 +778,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E098.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE099
     shortLabel Coloc E099
@@ -689,6 +786,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E099.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE100
     shortLabel Coloc E100
@@ -696,6 +794,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E100.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE101
     shortLabel Coloc E101
@@ -703,6 +802,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E101.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE102
     shortLabel Coloc E102
@@ -710,6 +810,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E102.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE103
     shortLabel Coloc E103
@@ -717,6 +818,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E103.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE104
     shortLabel Coloc E104
@@ -724,6 +826,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E104.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE105
     shortLabel Coloc E105
@@ -731,6 +834,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E105.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE106
     shortLabel Coloc E106
@@ -738,6 +842,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E106.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE107
     shortLabel Coloc E107
@@ -745,6 +850,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E107.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE108
     shortLabel Coloc E108
@@ -752,6 +858,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E108.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE109
     shortLabel Coloc E109
@@ -759,6 +866,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E109.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE110
     shortLabel Coloc E110
@@ -766,6 +874,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E110.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE111
     shortLabel Coloc E111
@@ -773,6 +882,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E111.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE112
     shortLabel Coloc E112
@@ -780,6 +890,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E112.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE113
     shortLabel Coloc E113
@@ -787,6 +898,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E113.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE114
     shortLabel Coloc E114
@@ -794,6 +906,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E114.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE115
     shortLabel Coloc E115
@@ -801,6 +914,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E115.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE116
     shortLabel Coloc E116
@@ -808,6 +922,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E116.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE117
     shortLabel Coloc E117
@@ -815,6 +930,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E117.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE118
     shortLabel Coloc E118
@@ -822,6 +938,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E118.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE119
     shortLabel Coloc E119
@@ -829,6 +946,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E119.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE120
     shortLabel Coloc E120
@@ -836,6 +954,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E120.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE121
     shortLabel Coloc E121
@@ -843,6 +962,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E121.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE122
     shortLabel Coloc E122
@@ -850,6 +970,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E122.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE123
     shortLabel Coloc E123
@@ -857,6 +978,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E123.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE124
     shortLabel Coloc E124
@@ -864,6 +986,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E124.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE125
     shortLabel Coloc E125
@@ -871,6 +994,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E125.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE126
     shortLabel Coloc E126
@@ -878,6 +1002,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E126.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE127
     shortLabel Coloc E127
@@ -885,6 +1010,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E127.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE128
     shortLabel Coloc E128
@@ -892,6 +1018,7 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E128.bw
+    html http://www.funlda.com/colocalization/track
 
     track ColocE129
     shortLabel Coloc E129
@@ -899,4 +1026,5 @@ defaultPos chr21:16420251-16425250
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E129.bw
+    html http://www.funlda.com/colocalization/track
 
