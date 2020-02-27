@@ -10,1021 +10,1021 @@ maxHeightPixels 20:10:10
 viewLimits 0:1
 color 244,67,54
 defaultPos chr21:16420251-16425250
-html http://www.funlda.com/colocalization/track
+html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE001
     shortLabel Coloc E001
-    longLabel Colocalized segments of human genome for Roadmap cell type E001
+    longLabel Colocalized segments for tissue E001 ESC.I3
     parent Coloc on
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E001.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE002
     shortLabel Coloc E002
-    longLabel Colocalized segments of human genome for Roadmap cell type E002
-    parent Coloc on
+    longLabel Colocalized segments for tissue E002 ESC.WA7
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E002.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE003
     shortLabel Coloc E003
-    longLabel Colocalized segments of human genome for Roadmap cell type E003
-    parent Coloc on
+    longLabel Colocalized segments for tissue E003 ESC.H1
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E003.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE004
     shortLabel Coloc E004
-    longLabel Colocalized segments of human genome for Roadmap cell type E004
-    parent Coloc on
+    longLabel Colocalized segments for tissue E004 ESDR.H1.BMP4.MESO
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E004.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE005
     shortLabel Coloc E005
-    longLabel Colocalized segments of human genome for Roadmap cell type E005
-    parent Coloc on
+    longLabel Colocalized segments for tissue E005 ESDR.H1.BMP4.TROP
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E005.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE006
     shortLabel Coloc E006
-    longLabel Colocalized segments of human genome for Roadmap cell type E006
-    parent Coloc on
+    longLabel Colocalized segments for tissue E006 ESDR.H1.MSC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E006.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE007
     shortLabel Coloc E007
-    longLabel Colocalized segments of human genome for Roadmap cell type E007
-    parent Coloc on
+    longLabel Colocalized segments for tissue E007 ESDR.H1.NEUR.PROG
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E007.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE008
     shortLabel Coloc E008
-    longLabel Colocalized segments of human genome for Roadmap cell type E008
-    parent Coloc on
+    longLabel Colocalized segments for tissue E008 ESC.H9
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E008.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE009
     shortLabel Coloc E009
-    longLabel Colocalized segments of human genome for Roadmap cell type E009
-    parent Coloc on
+    longLabel Colocalized segments for tissue E009 ESDR.H9.NEUR.PROG
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E009.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE010
     shortLabel Coloc E010
-    longLabel Colocalized segments of human genome for Roadmap cell type E010
-    parent Coloc on
+    longLabel Colocalized segments for tissue E010 ESDR.H9.NEUR
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E010.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE011
     shortLabel Coloc E011
-    longLabel Colocalized segments of human genome for Roadmap cell type E011
-    parent Coloc on
+    longLabel Colocalized segments for tissue E011 ESDR.CD184.ENDO
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E011.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE012
     shortLabel Coloc E012
-    longLabel Colocalized segments of human genome for Roadmap cell type E012
-    parent Coloc on
+    longLabel Colocalized segments for tissue E012 ESDR.CD56.ECTO
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E012.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE013
     shortLabel Coloc E013
-    longLabel Colocalized segments of human genome for Roadmap cell type E013
-    parent Coloc on
+    longLabel Colocalized segments for tissue E013 ESDR.CD56.MESO
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E013.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE014
     shortLabel Coloc E014
-    longLabel Colocalized segments of human genome for Roadmap cell type E014
-    parent Coloc on
+    longLabel Colocalized segments for tissue E014 ESC.HUES48
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E014.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE015
     shortLabel Coloc E015
-    longLabel Colocalized segments of human genome for Roadmap cell type E015
-    parent Coloc on
+    longLabel Colocalized segments for tissue E015 ESC.HUES6
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E015.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE016
     shortLabel Coloc E016
-    longLabel Colocalized segments of human genome for Roadmap cell type E016
-    parent Coloc on
+    longLabel Colocalized segments for tissue E016 ESC.HUES64
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E016.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE017
     shortLabel Coloc E017
-    longLabel Colocalized segments of human genome for Roadmap cell type E017
-    parent Coloc on
+    longLabel Colocalized segments for tissue E017 LNG.IMR90
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E017.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE018
     shortLabel Coloc E018
-    longLabel Colocalized segments of human genome for Roadmap cell type E018
-    parent Coloc on
+    longLabel Colocalized segments for tissue E018 IPSC.15b
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E018.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE019
     shortLabel Coloc E019
-    longLabel Colocalized segments of human genome for Roadmap cell type E019
-    parent Coloc on
+    longLabel Colocalized segments for tissue E019 IPSC.18
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E019.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE020
     shortLabel Coloc E020
-    longLabel Colocalized segments of human genome for Roadmap cell type E020
-    parent Coloc on
+    longLabel Colocalized segments for tissue E020 IPSC.20B
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E020.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE021
     shortLabel Coloc E021
-    longLabel Colocalized segments of human genome for Roadmap cell type E021
-    parent Coloc on
+    longLabel Colocalized segments for tissue E021 IPSC.DF.6.9
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E021.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE022
     shortLabel Coloc E022
-    longLabel Colocalized segments of human genome for Roadmap cell type E022
-    parent Coloc on
+    longLabel Colocalized segments for tissue E022 IPSC.DF.19.11
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E022.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE023
     shortLabel Coloc E023
-    longLabel Colocalized segments of human genome for Roadmap cell type E023
-    parent Coloc on
+    longLabel Colocalized segments for tissue E023 FAT.MSC.DR.ADIP
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E023.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE024
     shortLabel Coloc E024
-    longLabel Colocalized segments of human genome for Roadmap cell type E024
-    parent Coloc on
+    longLabel Colocalized segments for tissue E024 ESC.4STAR
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E024.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE025
     shortLabel Coloc E025
-    longLabel Colocalized segments of human genome for Roadmap cell type E025
-    parent Coloc on
+    longLabel Colocalized segments for tissue E025 FAT.ADIP.DR.MSC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E025.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE026
     shortLabel Coloc E026
-    longLabel Colocalized segments of human genome for Roadmap cell type E026
-    parent Coloc on
+    longLabel Colocalized segments for tissue E026 STRM.MRW.MSC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E026.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE027
     shortLabel Coloc E027
-    longLabel Colocalized segments of human genome for Roadmap cell type E027
-    parent Coloc on
+    longLabel Colocalized segments for tissue E027 BRST.MYO
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E027.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE028
     shortLabel Coloc E028
-    longLabel Colocalized segments of human genome for Roadmap cell type E028
-    parent Coloc on
+    longLabel Colocalized segments for tissue E028 BRST.HMEC.35
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E028.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE029
     shortLabel Coloc E029
-    longLabel Colocalized segments of human genome for Roadmap cell type E029
-    parent Coloc on
+    longLabel Colocalized segments for tissue E029 BLD.CD14.PC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E029.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE030
     shortLabel Coloc E030
-    longLabel Colocalized segments of human genome for Roadmap cell type E030
-    parent Coloc on
+    longLabel Colocalized segments for tissue E030 BLD.CD15.PC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E030.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE031
     shortLabel Coloc E031
-    longLabel Colocalized segments of human genome for Roadmap cell type E031
-    parent Coloc on
+    longLabel Colocalized segments for tissue E031 BLD.CD19.CPC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E031.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE032
     shortLabel Coloc E032
-    longLabel Colocalized segments of human genome for Roadmap cell type E032
-    parent Coloc on
+    longLabel Colocalized segments for tissue E032 BLD.CD19.PPC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E032.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE033
     shortLabel Coloc E033
-    longLabel Colocalized segments of human genome for Roadmap cell type E033
-    parent Coloc on
+    longLabel Colocalized segments for tissue E033 BLD.CD3.CPC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E033.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE034
     shortLabel Coloc E034
-    longLabel Colocalized segments of human genome for Roadmap cell type E034
-    parent Coloc on
+    longLabel Colocalized segments for tissue E034 BLD.CD3.PPC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E034.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE035
     shortLabel Coloc E035
-    longLabel Colocalized segments of human genome for Roadmap cell type E035
-    parent Coloc on
+    longLabel Colocalized segments for tissue E035 BLD.CD34.PC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E035.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE036
     shortLabel Coloc E036
-    longLabel Colocalized segments of human genome for Roadmap cell type E036
-    parent Coloc on
+    longLabel Colocalized segments for tissue E036 BLD.CD34.CC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E036.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE037
     shortLabel Coloc E037
-    longLabel Colocalized segments of human genome for Roadmap cell type E037
-    parent Coloc on
+    longLabel Colocalized segments for tissue E037 BLD.CD4.MPC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E037.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE038
     shortLabel Coloc E038
-    longLabel Colocalized segments of human genome for Roadmap cell type E038
-    parent Coloc on
+    longLabel Colocalized segments for tissue E038 BLD.CD4.NPC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E038.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE039
     shortLabel Coloc E039
-    longLabel Colocalized segments of human genome for Roadmap cell type E039
-    parent Coloc on
+    longLabel Colocalized segments for tissue E039 BLD.CD4.CD25M.CD45RA.NPC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E039.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE040
     shortLabel Coloc E040
-    longLabel Colocalized segments of human genome for Roadmap cell type E040
-    parent Coloc on
+    longLabel Colocalized segments for tissue E040 BLD.CD4.CD25M.CD45RO.MPC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E040.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE041
     shortLabel Coloc E041
-    longLabel Colocalized segments of human genome for Roadmap cell type E041
-    parent Coloc on
+    longLabel Colocalized segments for tissue E041 BLD.CD4.CD25M.IL17M.PL.TPC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E041.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE042
     shortLabel Coloc E042
-    longLabel Colocalized segments of human genome for Roadmap cell type E042
-    parent Coloc on
+    longLabel Colocalized segments for tissue E042 BLD.CD4.CD25M.IL17P.PL.TPC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E042.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE043
     shortLabel Coloc E043
-    longLabel Colocalized segments of human genome for Roadmap cell type E043
-    parent Coloc on
+    longLabel Colocalized segments for tissue E043 BLD.CD4.CD25M.TPC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E043.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE044
     shortLabel Coloc E044
-    longLabel Colocalized segments of human genome for Roadmap cell type E044
-    parent Coloc on
+    longLabel Colocalized segments for tissue E044 BLD.CD4.CD25.CD127M.TREGPC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E044.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE045
     shortLabel Coloc E045
-    longLabel Colocalized segments of human genome for Roadmap cell type E045
-    parent Coloc on
+    longLabel Colocalized segments for tissue E045 BLD.CD4.CD25I.CD127.TMEMPC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E045.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE046
     shortLabel Coloc E046
-    longLabel Colocalized segments of human genome for Roadmap cell type E046
-    parent Coloc on
+    longLabel Colocalized segments for tissue E046 BLD.CD56.PC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E046.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE047
     shortLabel Coloc E047
-    longLabel Colocalized segments of human genome for Roadmap cell type E047
-    parent Coloc on
+    longLabel Colocalized segments for tissue E047 BLD.CD8.NPC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E047.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE048
     shortLabel Coloc E048
-    longLabel Colocalized segments of human genome for Roadmap cell type E048
-    parent Coloc on
+    longLabel Colocalized segments for tissue E048 BLD.CD8.MPC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E048.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE049
     shortLabel Coloc E049
-    longLabel Colocalized segments of human genome for Roadmap cell type E049
-    parent Coloc on
+    longLabel Colocalized segments for tissue E049 STRM.CHON.MRW.DR.MSC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E049.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE050
     shortLabel Coloc E050
-    longLabel Colocalized segments of human genome for Roadmap cell type E050
-    parent Coloc on
+    longLabel Colocalized segments for tissue E050 BLD.MOB.CD34.PC.F
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E050.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE051
     shortLabel Coloc E051
-    longLabel Colocalized segments of human genome for Roadmap cell type E051
-    parent Coloc on
+    longLabel Colocalized segments for tissue E051 BLD.MOB.CD34.PC.M
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E051.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE052
     shortLabel Coloc E052
-    longLabel Colocalized segments of human genome for Roadmap cell type E052
-    parent Coloc on
+    longLabel Colocalized segments for tissue E052 MUS.SAT
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E052.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE053
     shortLabel Coloc E053
-    longLabel Colocalized segments of human genome for Roadmap cell type E053
-    parent Coloc on
+    longLabel Colocalized segments for tissue E053 BRN.CRTX.DR.NRSPHR
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E053.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE054
     shortLabel Coloc E054
-    longLabel Colocalized segments of human genome for Roadmap cell type E054
-    parent Coloc on
+    longLabel Colocalized segments for tissue E054 BRN.GANGEM.DR.NRSPHR
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E054.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE055
     shortLabel Coloc E055
-    longLabel Colocalized segments of human genome for Roadmap cell type E055
-    parent Coloc on
+    longLabel Colocalized segments for tissue E055 SKIN.PEN.FRSK.FIB.01
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E055.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE056
     shortLabel Coloc E056
-    longLabel Colocalized segments of human genome for Roadmap cell type E056
-    parent Coloc on
+    longLabel Colocalized segments for tissue E056 SKIN.PEN.FRSK.FIB.02
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E056.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE057
     shortLabel Coloc E057
-    longLabel Colocalized segments of human genome for Roadmap cell type E057
-    parent Coloc on
+    longLabel Colocalized segments for tissue E057 SKIN.PEN.FRSK.KER.02
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E057.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE058
     shortLabel Coloc E058
-    longLabel Colocalized segments of human genome for Roadmap cell type E058
-    parent Coloc on
+    longLabel Colocalized segments for tissue E058 SKIN.PEN.FRSK.KER.03
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E058.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE059
     shortLabel Coloc E059
-    longLabel Colocalized segments of human genome for Roadmap cell type E059
-    parent Coloc on
+    longLabel Colocalized segments for tissue E059 SKIN.PEN.FRSK.MEL.01
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E059.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE061
     shortLabel Coloc E061
-    longLabel Colocalized segments of human genome for Roadmap cell type E061
-    parent Coloc on
+    longLabel Colocalized segments for tissue E061 SKIN.PEN.FRSK.MEL.03
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E061.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE062
     shortLabel Coloc E062
-    longLabel Colocalized segments of human genome for Roadmap cell type E062
-    parent Coloc on
+    longLabel Colocalized segments for tissue E062 BLD.PER.MONUC.PC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E062.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE063
     shortLabel Coloc E063
-    longLabel Colocalized segments of human genome for Roadmap cell type E063
-    parent Coloc on
+    longLabel Colocalized segments for tissue E063 FAT.ADIP.NUC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E063.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE065
     shortLabel Coloc E065
-    longLabel Colocalized segments of human genome for Roadmap cell type E065
-    parent Coloc on
+    longLabel Colocalized segments for tissue E065 VAS.AOR
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E065.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE066
     shortLabel Coloc E066
-    longLabel Colocalized segments of human genome for Roadmap cell type E066
-    parent Coloc on
+    longLabel Colocalized segments for tissue E066 LIV.ADLT
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E066.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE067
     shortLabel Coloc E067
-    longLabel Colocalized segments of human genome for Roadmap cell type E067
-    parent Coloc on
+    longLabel Colocalized segments for tissue E067 BRN.ANG.GYR
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E067.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE068
     shortLabel Coloc E068
-    longLabel Colocalized segments of human genome for Roadmap cell type E068
-    parent Coloc on
+    longLabel Colocalized segments for tissue E068 BRN.ANT.CAUD
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E068.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE069
     shortLabel Coloc E069
-    longLabel Colocalized segments of human genome for Roadmap cell type E069
-    parent Coloc on
+    longLabel Colocalized segments for tissue E069 BRN.CING.GYR
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E069.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE070
     shortLabel Coloc E070
-    longLabel Colocalized segments of human genome for Roadmap cell type E070
-    parent Coloc on
+    longLabel Colocalized segments for tissue E070 BRN.GRM.MTRX
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E070.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE071
     shortLabel Coloc E071
-    longLabel Colocalized segments of human genome for Roadmap cell type E071
-    parent Coloc on
+    longLabel Colocalized segments for tissue E071 BRN.HIPP.MID
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E071.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE072
     shortLabel Coloc E072
-    longLabel Colocalized segments of human genome for Roadmap cell type E072
-    parent Coloc on
+    longLabel Colocalized segments for tissue E072 BRN.INF.TMP
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E072.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE073
     shortLabel Coloc E073
-    longLabel Colocalized segments of human genome for Roadmap cell type E073
-    parent Coloc on
+    longLabel Colocalized segments for tissue E073 BRN.DL.PRFRNTL.CRTX
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E073.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE074
     shortLabel Coloc E074
-    longLabel Colocalized segments of human genome for Roadmap cell type E074
-    parent Coloc on
+    longLabel Colocalized segments for tissue E074 BRN.SUB.NIG
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E074.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE075
     shortLabel Coloc E075
-    longLabel Colocalized segments of human genome for Roadmap cell type E075
-    parent Coloc on
+    longLabel Colocalized segments for tissue E075 GI.CLN.MUC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E075.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE076
     shortLabel Coloc E076
-    longLabel Colocalized segments of human genome for Roadmap cell type E076
-    parent Coloc on
+    longLabel Colocalized segments for tissue E076 GI.CLN.SM.MUS
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E076.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE077
     shortLabel Coloc E077
-    longLabel Colocalized segments of human genome for Roadmap cell type E077
-    parent Coloc on
+    longLabel Colocalized segments for tissue E077 GI.DUO.MUC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E077.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE078
     shortLabel Coloc E078
-    longLabel Colocalized segments of human genome for Roadmap cell type E078
-    parent Coloc on
+    longLabel Colocalized segments for tissue E078 GI.DUO.SM.MUS
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E078.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE079
     shortLabel Coloc E079
-    longLabel Colocalized segments of human genome for Roadmap cell type E079
-    parent Coloc on
+    longLabel Colocalized segments for tissue E079 GI.ESO
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E079.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE080
     shortLabel Coloc E080
-    longLabel Colocalized segments of human genome for Roadmap cell type E080
-    parent Coloc on
+    longLabel Colocalized segments for tissue E080 ADRL.GLND.FET
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E080.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE081
     shortLabel Coloc E081
-    longLabel Colocalized segments of human genome for Roadmap cell type E081
-    parent Coloc on
+    longLabel Colocalized segments for tissue E081 BRN.FET.M
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E081.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE082
     shortLabel Coloc E082
-    longLabel Colocalized segments of human genome for Roadmap cell type E082
-    parent Coloc on
+    longLabel Colocalized segments for tissue E082 BRN.FET.F
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E082.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE083
     shortLabel Coloc E083
-    longLabel Colocalized segments of human genome for Roadmap cell type E083
-    parent Coloc on
+    longLabel Colocalized segments for tissue E083 HRT.FET
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E083.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE084
     shortLabel Coloc E084
-    longLabel Colocalized segments of human genome for Roadmap cell type E084
-    parent Coloc on
+    longLabel Colocalized segments for tissue E084 GI.L.INT.FET
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E084.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE085
     shortLabel Coloc E085
-    longLabel Colocalized segments of human genome for Roadmap cell type E085
-    parent Coloc on
+    longLabel Colocalized segments for tissue E085 GI.S.INT.FET
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E085.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE086
     shortLabel Coloc E086
-    longLabel Colocalized segments of human genome for Roadmap cell type E086
-    parent Coloc on
+    longLabel Colocalized segments for tissue E086 KID.FET
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E086.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE087
     shortLabel Coloc E087
-    longLabel Colocalized segments of human genome for Roadmap cell type E087
-    parent Coloc on
+    longLabel Colocalized segments for tissue E087 PANC.ISLT
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E087.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE088
     shortLabel Coloc E088
-    longLabel Colocalized segments of human genome for Roadmap cell type E088
-    parent Coloc on
+    longLabel Colocalized segments for tissue E088 LNG.FET
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E088.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE089
     shortLabel Coloc E089
-    longLabel Colocalized segments of human genome for Roadmap cell type E089
-    parent Coloc on
+    longLabel Colocalized segments for tissue E089 MUS.TRNK.FET
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E089.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE090
     shortLabel Coloc E090
-    longLabel Colocalized segments of human genome for Roadmap cell type E090
-    parent Coloc on
+    longLabel Colocalized segments for tissue E090 MUS.LEG.FET
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E090.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE091
     shortLabel Coloc E091
-    longLabel Colocalized segments of human genome for Roadmap cell type E091
-    parent Coloc on
+    longLabel Colocalized segments for tissue E091 PLCNT.FET
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E091.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE092
     shortLabel Coloc E092
-    longLabel Colocalized segments of human genome for Roadmap cell type E092
-    parent Coloc on
+    longLabel Colocalized segments for tissue E092 GI.STMC.FET
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E092.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE093
     shortLabel Coloc E093
-    longLabel Colocalized segments of human genome for Roadmap cell type E093
-    parent Coloc on
+    longLabel Colocalized segments for tissue E093 THYM.FET
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E093.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE094
     shortLabel Coloc E094
-    longLabel Colocalized segments of human genome for Roadmap cell type E094
-    parent Coloc on
+    longLabel Colocalized segments for tissue E094 GI.STMC.GAST
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E094.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE095
     shortLabel Coloc E095
-    longLabel Colocalized segments of human genome for Roadmap cell type E095
-    parent Coloc on
+    longLabel Colocalized segments for tissue E095 HRT.VENT.L
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E095.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE096
     shortLabel Coloc E096
-    longLabel Colocalized segments of human genome for Roadmap cell type E096
-    parent Coloc on
+    longLabel Colocalized segments for tissue E096 LNG
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E096.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE097
     shortLabel Coloc E097
-    longLabel Colocalized segments of human genome for Roadmap cell type E097
-    parent Coloc on
+    longLabel Colocalized segments for tissue E097 OVRY
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E097.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE098
     shortLabel Coloc E098
-    longLabel Colocalized segments of human genome for Roadmap cell type E098
-    parent Coloc on
+    longLabel Colocalized segments for tissue E098 PANC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E098.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE099
     shortLabel Coloc E099
-    longLabel Colocalized segments of human genome for Roadmap cell type E099
-    parent Coloc on
+    longLabel Colocalized segments for tissue E099 PLCNT.AMN
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E099.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE100
     shortLabel Coloc E100
-    longLabel Colocalized segments of human genome for Roadmap cell type E100
-    parent Coloc on
+    longLabel Colocalized segments for tissue E100 MUS.PSOAS
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E100.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE101
     shortLabel Coloc E101
-    longLabel Colocalized segments of human genome for Roadmap cell type E101
-    parent Coloc on
+    longLabel Colocalized segments for tissue E101 GI.RECT.MUC.29
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E101.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE102
     shortLabel Coloc E102
-    longLabel Colocalized segments of human genome for Roadmap cell type E102
-    parent Coloc on
+    longLabel Colocalized segments for tissue E102 GI.RECT.MUC.31
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E102.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE103
     shortLabel Coloc E103
-    longLabel Colocalized segments of human genome for Roadmap cell type E103
-    parent Coloc on
+    longLabel Colocalized segments for tissue E103 GI.RECT.SM.MUS
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E103.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE104
     shortLabel Coloc E104
-    longLabel Colocalized segments of human genome for Roadmap cell type E104
-    parent Coloc on
+    longLabel Colocalized segments for tissue E104 HRT.ATR.R
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E104.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE105
     shortLabel Coloc E105
-    longLabel Colocalized segments of human genome for Roadmap cell type E105
-    parent Coloc on
+    longLabel Colocalized segments for tissue E105 HRT.VNT.R
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E105.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE106
     shortLabel Coloc E106
-    longLabel Colocalized segments of human genome for Roadmap cell type E106
-    parent Coloc on
+    longLabel Colocalized segments for tissue E106 GI.CLN.SIG
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E106.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE107
     shortLabel Coloc E107
-    longLabel Colocalized segments of human genome for Roadmap cell type E107
-    parent Coloc on
+    longLabel Colocalized segments for tissue E107 MUS.SKLT.M
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E107.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE108
     shortLabel Coloc E108
-    longLabel Colocalized segments of human genome for Roadmap cell type E108
-    parent Coloc on
+    longLabel Colocalized segments for tissue E108 MUS.SKLT.F
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E108.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE109
     shortLabel Coloc E109
-    longLabel Colocalized segments of human genome for Roadmap cell type E109
-    parent Coloc on
+    longLabel Colocalized segments for tissue E109 GI.S.INT
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E109.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE110
     shortLabel Coloc E110
-    longLabel Colocalized segments of human genome for Roadmap cell type E110
-    parent Coloc on
+    longLabel Colocalized segments for tissue E110 GI.STMC.MUC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E110.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE111
     shortLabel Coloc E111
-    longLabel Colocalized segments of human genome for Roadmap cell type E111
-    parent Coloc on
+    longLabel Colocalized segments for tissue E111 GI.STMC.MUS
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E111.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE112
     shortLabel Coloc E112
-    longLabel Colocalized segments of human genome for Roadmap cell type E112
-    parent Coloc on
+    longLabel Colocalized segments for tissue E112 THYM
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E112.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE113
     shortLabel Coloc E113
-    longLabel Colocalized segments of human genome for Roadmap cell type E113
-    parent Coloc on
+    longLabel Colocalized segments for tissue E113 SPLN
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E113.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE114
     shortLabel Coloc E114
-    longLabel Colocalized segments of human genome for Roadmap cell type E114
-    parent Coloc on
+    longLabel Colocalized segments for tissue E114 LNG.A549.ETOH002.CNCR
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E114.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE115
     shortLabel Coloc E115
-    longLabel Colocalized segments of human genome for Roadmap cell type E115
-    parent Coloc on
+    longLabel Colocalized segments for tissue E115 BLD.DND41.CNCR
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E115.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE116
     shortLabel Coloc E116
-    longLabel Colocalized segments of human genome for Roadmap cell type E116
-    parent Coloc on
+    longLabel Colocalized segments for tissue E116 BLD.GM12878
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E116.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE117
     shortLabel Coloc E117
-    longLabel Colocalized segments of human genome for Roadmap cell type E117
-    parent Coloc on
+    longLabel Colocalized segments for tissue E117 CRVX.HELAS3.CNCR
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E117.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE118
     shortLabel Coloc E118
-    longLabel Colocalized segments of human genome for Roadmap cell type E118
-    parent Coloc on
+    longLabel Colocalized segments for tissue E118 LIV.HEPG2.CNCR
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E118.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE119
     shortLabel Coloc E119
-    longLabel Colocalized segments of human genome for Roadmap cell type E119
-    parent Coloc on
+    longLabel Colocalized segments for tissue E119 BRST.HMEC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E119.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE120
     shortLabel Coloc E120
-    longLabel Colocalized segments of human genome for Roadmap cell type E120
-    parent Coloc on
+    longLabel Colocalized segments for tissue E120 MUS.HSMM
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E120.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE121
     shortLabel Coloc E121
-    longLabel Colocalized segments of human genome for Roadmap cell type E121
-    parent Coloc on
+    longLabel Colocalized segments for tissue E121 MUS.HSMMT
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E121.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE122
     shortLabel Coloc E122
-    longLabel Colocalized segments of human genome for Roadmap cell type E122
-    parent Coloc on
+    longLabel Colocalized segments for tissue E122 VAS.HUVEC
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E122.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE123
     shortLabel Coloc E123
-    longLabel Colocalized segments of human genome for Roadmap cell type E123
-    parent Coloc on
+    longLabel Colocalized segments for tissue E123 BLD.K562.CNCR
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E123.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE124
     shortLabel Coloc E124
-    longLabel Colocalized segments of human genome for Roadmap cell type E124
-    parent Coloc on
+    longLabel Colocalized segments for tissue E124 BLD.CD14.MONO
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E124.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE125
     shortLabel Coloc E125
-    longLabel Colocalized segments of human genome for Roadmap cell type E125
-    parent Coloc on
+    longLabel Colocalized segments for tissue E125 BRN.NHA
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E125.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE126
     shortLabel Coloc E126
-    longLabel Colocalized segments of human genome for Roadmap cell type E126
-    parent Coloc on
+    longLabel Colocalized segments for tissue E126 SKIN.NHDFAD
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E126.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE127
     shortLabel Coloc E127
-    longLabel Colocalized segments of human genome for Roadmap cell type E127
-    parent Coloc on
+    longLabel Colocalized segments for tissue E127 SKIN.NHEK
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E127.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE128
     shortLabel Coloc E128
-    longLabel Colocalized segments of human genome for Roadmap cell type E128
-    parent Coloc on
+    longLabel Colocalized segments for tissue E128 LNG.NHLF
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E128.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
     track ColocE129
     shortLabel Coloc E129
-    longLabel Colocalized segments of human genome for Roadmap cell type E129
-    parent Coloc on
+    longLabel Colocalized segments for tissue E129 BONE.OSTEO
+    parent Coloc off
     type bigWig
     bigDataUrl https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hg19/Coloc.E129.bw
-    html http://www.funlda.com/colocalization/track
+    html https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.html
 
