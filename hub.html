@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Track hub of co-localization</title>
+  </head>
+
+  <body>
+    <h2>Co-localization segments of human genome for Roadmap cell types</h2>
+
+    <h4>Description</h4>
+    <p>
+      A co-localization statistic is to identify individual (tissue/cell type specific) regulatory regions that are under sequence constraint. 
+      We employ a sliding-window type approach with window size 1 Kb, and 500 bps overlap, and for each such window we report a co-localization local fdr value. 
+      The <a target="_blank" href="http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&hubUrl=https://raw.githubusercontent.com/Iuliana-Ionita-Laza/Colocalization_tracks/master/hub.txt">UCSC Genome Browser Track Hub</a> is provided to view the co-localized regulatory segments in the human genome assembly hg19 for 127 Roadmap cell types. 
+      There is an <a target="_blank" href="https://docs.google.com/spreadsheet/ccc?key=0Am6FxqAtrFDwdHU1UC13ZUxKYy1XVEJPUzV6MEtQOXc&usp=sharing">online spreadsheet</a> with information about the 127 Roadmap cell types. 
+      The track displays co-localized regions which have local fdr < 0.3 in black segments.
+    </p>
+
+    <h4>Reference</h4>
+    <p>Danqing Xu, Chen Wang, Krzysztof Kiryluk, Joseph D. Buxbaum, Iuliana Ionita-Laza, "Co-localization between sequence constraint and epigenomic information improves interpretation of whole genome sequencing data". Submitted.</p>
+    <p>More information can be found from our <a target="_blank" href="http://www.funlda.com/colocalization">co-localization web server</a></p>
+
+    <h4>Data Access</h4>
+    <p>The raw data in the bigWig format for the tracks are available <a target="_blank" href="https://github.com/Iuliana-Ionita-Laza/Colocalization_tracks/tree/master/hg19">here</a></p>
+
+    <h4>Contact</h4>
+    <p>Please e-mail ii2135@cumc.columbia.edu or cw3154@cumc.columbia.edu with any questions or comments about this website and the track hub.</p>
+
+  </body>
+</html>
